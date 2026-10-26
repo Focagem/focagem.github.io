@@ -1,0 +1,112 @@
+# Focagem - Soluções de Gestão, Lda (Documentação Completa)
+
+Website Oficial: https://www.focagem.pt/pt/home/index.html
+Morada: Rua General Ferreira Martins nº8 1º B, 1495-137 Algés - LISBOA, Portugal
+Telefone: +351 21 393 00 83 | Fax: +351 21 393 00 79
+E-mails: focagem@focagem.com | comercial@focagem.com | suporte@focagem.com | recrutamento@focagem.com
+
+## Apresentação
+URL: https://www.focagem.pt/pt/pagina/27/apresentacao/index.html
+
+​APRESENTAÇÃO A FOCAGEM é uma Empresa fundada em finais de 2000 sendo Parceira da Primavera desde então. Focamos a nossa visão nos processos de gestão, financeiros, administrativos e logísticos das Organizações, procurando maximizar a produtividade dos recursos disponíveis e a rentabilidade dos investimentos efetuados. A FOCAGEM está a crescer e a fazer uma aposta na melhoria das soluções propostas aconselhando as melhores condições e soluções para os seus clientes. Está também a tomar iniciativas com vista a garantir a prestação de um serviço de excelência aos seus clientes e parceiros pautado pela transparência e constante acompanhamento das necessidades obtendo por isso elevados níveis de satisfação e fidelização dos seus clientes. MENSAGEM DO DIRETOR GERAL Desde 2000 que a Focagem tem vindo a navegar em águas por vezes calmas outras turbulentas, mas em equipa, temos vindo a alcançar os nossos objetivos. Por isso, gostaria de agradecer aos nossos clientes e parceiros os momentos de confiança em prol do desenvolvimento da empresa que acreditamos terem sido recíprocos. Gostaria também de dar uma palavra pela nossa equipa, que incansável, tem vindo a estar disponível e atenta às necessidades dos nossos clientes. Paralelamente fazemos questão em proporcionar um excelente ambiente de trabalho e o melhor desenvolvimento profissional e pessoal. A nossa visão para o futuro é otimista e promissora e estamos a crescer tentando fazê-lo de forma sustentada caminhando nestas águas dia a dia e com confiança. Por isso conto convosco... Alberto Gonçalves
+
+## Missão e Valores
+URL: https://www.focagem.pt/pt/pagina/28/missao-e-valores/index.html
+
+Desenvolver e comercializar soluções tecnológicas que as empresas prefiram comprar por se adaptarem à sua realidade e necessidades, garantindo a criação de valor e sustentabilidade do negócio. Nossa conduta deve refletir os mais altos padrões de ética; Nossa comunicação deve ser clara e precisa; A nossa gestão deve ser em equipa, consistente e focada; Nosso relacionamento com clientes e colaboradores deve ser transparente e baseado na responsabilidade e confiança entre as partes.
+
+## Implementação de Sistemas Eticadata
+URL: https://www.focagem.pt/pt/servico/10/implementacao-de-sistemas-eticadata/index.html
+
+A FOCAGEM implementa soluções Eticadata. Trata-se de uma linha de soluções completamente integradas que oferecem controlo absoluto sobre todos os processos operacionais, fiscais, administrativos e financeiros, tendo em mente as pecularidades dos processos comerciais das empresas independentemente da sua dimensão. A Eticadata tem vários modulos: gestão comercial (encomendas e orçamentos, compras, stocks, vendas, contas correntes, tesouraria e contratos), pontos de venda, POS Gourmet, Autogest stands, Autogest rent-a-car, Autogest oficinas, Autogest frotas, apoio pós venda, CRM, gestão de obras e projetos, suite gestão hoteleira, E-portals, gestão de RH, contabilidade, investimentos e imobilizado. A Eticadata tem vindo a acompanhar as tendências e evoluções tecnológicas e a investir em recursos e pesquisa de ponta de modo a aplicar inovações aos seus produtos, a custos viáveis, no menor espaço de tempo possivel. Para mais informações contacte-nos.
+
+## Implementação de Sistemas Wintouch
+URL: https://www.focagem.pt/pt/servico/11/implementacao-de-sistemas-wintouch/index.html
+
+A FOCAGEM implementa soluções Wintouch que são atualmente referência no mercado, sobretudo para as áreas de restauração, panificação, bares, discotecas, catering e gestão F&B. Como aspecto principal desta solução destaca-se a enorme facilidade de utilização que permite eliminar longos tempos de formação pois o frontoffice é intuitivo, rapido e completo. A Wintouch tem vários módulos de onde se destaca soluções para restauração (sistema certificado pela AT e dividido em front office e back office), hotelaria, veterinárias, clinicas, retalho, gestão (vendas, comissionistas e vendedores, clientes, faturação, contas correntes, tesouraria, stocks, inventários, produção, lotes, nº série, recursos humanos). Para mais informações contacte-nos.
+
+## Disaster Recovery
+URL: https://www.focagem.pt/pt/servico/12/disaster-recovery/index.html
+
+Se hoje tivesse de lidar com um DESASTRE INFORMÁTICO estava preparado?
+
+## Gestão documental
+URL: https://www.focagem.pt/pt/servico/18/gestao-documental/index.html
+
+A gestão de documentos e processos é essencial ao bom desempenho de uma empresa e um reflexo da sua organização interna. A existência de grandes volumes de informação, tanto oriundos do exterior como internos, potencia a perda de documentos, aumenta a dificuldade em aceder rapidamente à informação e à sua localização física e dificulta o controlo dos fluxos de informação. A implementação de um sistema de gestão documental e processos é um factor decisivo para o seu negócio, na medida que permite à empresa gerir toda a informação não estruturada, tendo por base os seguintes conceitos: Desmaterialização Normalização Indexação Digitalização dos documentos em formato papel, produzindo documentos electrónicos que são classificados e disponibilizados segundo um determinado critério. De todos os tipos de documentos da empresa, métodos de classificação e de entidades; uniformização de processos utilizando sempre os mesmos procedimentos. Catalogação e classificação dos documentos electrónicos. Esta fase é equivalente ao processo de arquivo físico mas potenciando os benefícios dos sistemas de informação, podendo garantir a gestão integrada do arquivo físico e electrónico. Workflow Pesquisa Redução de Custo Definição dos vários estados pelos quais um documento passa, incluindo publicação, aprovação, distribuição e circulação ou arquivo possibilitando o controlo dos fluxos de circulação de documentos. Motor de busca capaz de realizar pesquisas de documentos pelo seu conteúdo ou atributos, permitindo localizar e disponibilizar imediatamente o mesmo, quando necessário e em qualquer parte. A redução de custo advém do aumento de produtividade na procura, reencaminhamento e gestão de documentos, redução do custo de cópias e redução das necessidades de espaço de arquivo. Vantagens de uma solução de gestão documental? A distribuição de documentos provenientes do exterior e/ou documentos internos assim como o tratamento da informação são actividades que consomem muito tempo e que estão sujeitas a erros de manuseamento que, por vezes, resultam em dispersão e extravio de documentos, dando origem a perdas de tempo e podendo mesmo causar dificuldades à empresa. Redução de Espaço Fisíco Gestão de Arquivos Rapidez no Acesso e Tratamento Controlo de Fluxos Acesso, Autenticação e Segurança Segurança do Arquivo em cenário de desatre Multisite e Multi-empresa A implementação do sistema de Gestão Documental e workflow Filedoc suprime dificuldades operacionais e apresenta as seguintes vantagens: Desmaterialização da documentação e dos processos de tramitação associados; Automatização e uniformização dos processos de trabalho; Gestão do arquivo da empresa de uma forma centralizada; Normalização dos documentos, critérios de arquivo e procedimentos; Rapidez na disponibilização, acesso e tratamento dos documentos; Controlo e segurança da informação e dos fluxos de informação (documentos e processos); Ganhos de eficiência administrativa e processual com consequentemente redução de custos operacionais; Redução da necessidade de espaço físico para arquivo e do custo com fotocópias e impressões; Possibilidade de medir a eficiência de recursos. Estes factores constituem uma mais-valia no suporte ao negócio da empresa. A Focagem é um parceiro certificado do software de gestão documental Filedoc.
+
+## Business Analytics
+URL: https://www.focagem.pt/pt/servico/20/business-analytics/index.html
+
+onheça bem, para decidir ainda melhor. Decisões acertadas não resultam de palpites. Nem de intuições. Tão-pouco de acasos. Toda a informação que precisa para definir estratégias rentáveis está escondida atrás dos dados dispersos pelos diversos departamentos, unidades operacionais e sistemas de informação. Saiba interpretar as mensagens que o negócio lhe envia. Centralize os dados e converta a informação em conhecimento. Com o PRIMAVERA Business Analytics otimiza a tomada de decisão tática, estratégica e operacional. Descubra facilmente tendências. Monitorize a performance.
+
+## Assistência técnica e monitorização de sistemas
+URL: https://www.focagem.pt/pt/servico/7/assistencia-tecnica-e-monitorizacao-de-sistemas/index.html
+
+Com esta área a focagem visa garantir que os clientes tem o máximo de tempo de atividade e desempenho em todos os seus recursos informáticos. É nossa preocupação satisfazer o cliente e as suas necessidade sem ultrapassar o orçamento disponível. Para atender a estes objetivos temos uma equipa profissional que administra, instala e atualiza todos os diversos equipamentos informáticos presentes nas suas instalações. Além do suporte técnico no local, oferecemos também assistência remota para problemas mais urgentes. A titulo de exemplo, a FOCAGEM presta serviços de assistência técnica (planos de manutenção, monitorização e ação), administração de base de dados, backups e Disaster Recovery e administração de redes . A solução de recuperação de desastres procura proteger as empresas e visa reagir e recuperar de praticamente qualquer tipo de evento que ponha em causa o acesso aos dados, infraestrutura, procedimentos, aplicações e/ou processos das organizações, que são criticos para a continuidade do negócio. Este serviço pretende desenhar planos alinhados com: a. As vulnerabilidades e recuperação total do ambiente TI em caso de desastre; b. Os níveis de tolerância aceitáveis ao desastre definidos pelo negócio; c. Acesso 24*7 a toda a infraestrutura contratada. A FOCAGEM tem atualmente três planos adequados às necessidades dos nossos clientes: plano Basic (5GB), plano Silver (50GB) e plano GOLD (500 GB). Para mais informações contacte-nos.
+
+## Desenvolvimento de software à medida
+URL: https://www.focagem.pt/pt/servico/8/desenvolvimento-de-software-a-medida/index.html
+
+A FOCAGEM visando corresponder às necessidades especificas dos nossos clientes desenvolve software à medida incrementando as funcionalidades e produtividade do seu ERP (software de gestão) ou desenvolvendo soluções de raiz. Ao longo dos anos A FOCAGEM tem vindo a desenvolver projetos à medida com bastante sucesso. Para tal poderá ver alguns exemplos na Área de Case Studies. Para mais informações contacte-nos.
+
+## Implementação de sistemas Primavera
+URL: https://www.focagem.pt/pt/servico/9/implementacao-de-sistemas-primavera/index.html
+
+A FOCAGEM implementa soluções Primavera adequados à realidade de cada cliente ou mercado. Desde 1993 que a Primavera BSS desenvolve soluções de gestão para empresas de todas as dimensões e de diversos sectores de actividade. Os produtos Primavera destacam-se pela sua versatilidade e abrangência, flexibilidade e fiabilidade, assim como por um ambiente harmonioso que promove uma utilização intuitiva do vasto conjunto de funcionalidades que os mesmos incorporam. A Plataforma Tecnológica transversal, aliada a uma metodologia de implementação com base nas melhores praticas internacionais para implementação de Sistemas de Informação representam garantias adicionais de sucesso para os milhares de utilizadores destas soluções. Para mais informações contacte-nos.
+
+## Soluções de Logística
+URL: https://www.focagem.pt/pt/solucao/1/solucoes-de-logistica/index.html
+
+A FOCAGEM tem soluções que fazem o tratamento de todo o circuito comercial nomeadamente: vendas e compras, gestão de inventário, POS, facturação electrónica, documentos internos. O modulo de vendas e compras é uma ferramenta essencial para a gestão de listas de preços e definição de descontos, permitindo simultaneamente o tratamento do IVA e de câmbios, o envio electrónico de documentos, o apoio à encomenda entre outras funcionalidades. O modulo de gestão de inventário é uma atividade que deve estar sujeita a critérios de elevado rigor, promovendo o conhecimento exato dos bens existentes em cada organização, bem como o seu estado de conservação. O modulo de tecnologias de transação electrónica promove a rapida digitalização de processos, permitindo efetuar por via electrónica o envio e receção de facturas e outros documentos logísticos com valor contabilistico, com integração no ERP. Para mais informações contacte-nos.
+
+## Solução de Gestão Hoteleira
+URL: https://www.focagem.pt/pt/solucao/13/solucao-de-gestao-hoteleira/index.html
+
+Soluções para gestão hoteleira – A FOCAGEM implementa um ERP destinado à gestão de unidades hoteleiras certificado pela AT. Este ERP tem poderosos e intuitivos mecanismos de gestão de reservas, preçários e faturação, bem como interfaces com pontos de venda, chaves de abertura de portas, ligações a sistemas on-line de reservas, entre outros. Este sistema permite fazer uma gestão multi unidade de forma a gerir em simultâneo as disponibilidades de uma cadeia de hoteis. Para mais informações contacte-nos.
+
+## Soluções de e-Portals
+URL: https://www.focagem.pt/pt/solucao/14/solucoes-de-e-portals/index.html
+
+E-Portals é uma plataforma que permite organizar, compartilhar e disponibilizar informações internas e externas num ambiente unico de forma facil e intuitiva facilitando a gestão da sua empresa. Para mais informações contacte-nos.
+
+## Solução para Gestão de creches e infantários
+URL: https://www.focagem.pt/pt/solucao/15/solucao-para-gestao-de-creches-e-infantarios/index.html
+
+​ Gestão Financeira de Colégios e Infantários Plataforma de gestão de serviços / Faturação automática mensal Gestão de divídas / Cobrança Comunicação / Cobranças Envio de faturas em bloco por email Envio de emails com serviços ocasionais (visitas de estudo/praia/etc) Geração de ficheiro SIBS / Débito Direto (assistência na configuração destes sistemas) Gestão Administrativa Gestão de Inscrições / Pré-inscrições Agrupamento da informação por Ano Letivo Valência / Turmas Mapas de Gestão Financeira Estatísticas de Mensalidades Estatísticas por Alunos / Valências / Serviços / Grupos Vendas por Valência Cumprimento de requisitos fiscais Declaração de IRS por Alunos Distribuição Etária / Género Faturação certificada Comunicação automática de faturas Solução Integrada Possibilidade de integrar online com Rec. Humanos / Contabilidade
+
+## Solução de gestão de clinicas hospitalares
+URL: https://www.focagem.pt/pt/solucao/16/solucao-de-gestao-de-clinicas-hospitalares/index.html
+
+A Focagem implementa e parameteriza à medida soluções completas e robustas para gestão de clinicas quer dentárias ou hospitalares. Permite fazer marcações de consultas, fazer um plano do tratamento, pode-se fazer requisições de exames, dar orçamentos, fazer faturação, gerir as comissões dos médicos, gestão de utentes com as respetivas patologias, etc. Para mais informações contacte-nos.
+
+## Solução para gestão de clinicas veterinárias
+URL: https://www.focagem.pt/pt/solucao/17/solucao-para-gestao-de-clinicas-veterinarias/index.html
+
+A Focagem implementa soluções completas e robustas para gestão de clinicas veterinárias. Com a solução é possivel gerir a ficha do animal, do proprietário, fazer marcações de consultas, planos de tratamento, fazer faturação, gerir as comissões dos veterinários, etc. Para mais informações contacte-nos.
+
+## Soluções financeiras
+URL: https://www.focagem.pt/pt/solucao/2/solucoes-financeiras/index.html
+
+A solução financeira detem um nível elevado de integração do módulo de tesouraria evitando a introdução duplicada de dados e o módulo de contabilidade permite organizar a contabilidade orçamental, geral, analitica e de custos de qualquer empresa. Esta solução permite a fluidez de processos e cobertura total das exigências fiscais e legais nomeadamente: Tesouraria (pagamentos e recebimentos, gestão de tesouraria previsional, gestão de bancos/caixa, titulos), contabilidade (introdução de movimentos, centros de custo, contabilidade orçamental, demonstrações económico financeiras, mapas e funções de gestão, movimentos diferidos,..), contabilidade não organizada, reporting fiscal. Para mais informações contacte-nos.
+
+## Soluções de contatos e oportunidades/CRM
+URL: https://www.focagem.pt/pt/solucao/3/solucoes-de-contatos-e-oportunidades-crm/index.html
+
+Esta solução visa o conhecimento dos clientes como mecanismo de fidelização nomeadamente: gestão de entidades externas (clientes, fornecedores, outros), gestão de contatos, identificação de atividades, gestão de cobranças, gestão de oportunidades de vendas. Além disso, este modulo está totalmente integrado nos outros módulos do ERP, sendo que os mecanismos de gestão de propostas incorporados na solução dão um forte impulso a toda a atividade comercial das empresas. Converter um potencial cliente num cliente efetivo passa a ser uma tarefa simples com esta solução, graças à possibilidade de converter automaticamente as cotações em encomendas, e encomendas em faturas, após adjudicação do cliente. Para mais informações contacte-nos.
+
+## Solução de projetos e serviços
+URL: https://www.focagem.pt/pt/solucao/4/solucao-de-projetos-e-servicos/index.html
+
+Esta solução visa a gestão operacional e financeira de projetos e serviços nomeadamente gere projetos e serviços pós-venda. Para mais informações contacte-nos.
+
+## Solução de Recursos Humanos
+URL: https://www.focagem.pt/pt/solucao/5/solucao-de-recursos-humanos/index.html
+
+Esta solução trata de forma exaustiva todo tipo de remunerações e honorários que uma empresa tem de colocar à disposição dos seus colaboradores. Assim está organizada em várias áreas: processamento de vencimentos, cadastro, contratos de trabalho, independentes e outros rendimentos, mapas internos de gestão, gestão de despesas, operações em lote, SHST, caixa geral de aposentações, balanço social e gestão da formação. Para mais informações contacte-nos.
+
+## Solução de Gestão de ativos
+URL: https://www.focagem.pt/pt/solucao/6/solucao-de-gestao-de-ativos/index.html
+
+Este Módulo trata com controlo total do ciclo de vida dos bens de imobilizado da empresa. As áreas são: identificação do activo, reavaliações, revalorização e perdas e perdas por imparidade, centros de custo, consultas, estatisticas e mapas de gestão, depreciações/amortizações, aquisições, alienações e abates, desreconhecimento e reclassificação do ativo, entre outros. Para mais informações contacte-nos.
+

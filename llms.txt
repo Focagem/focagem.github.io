@@ -1,0 +1,48 @@
+# Focagem - Soluções de Gestão, Lda
+
+> A FOCAGEM é uma empresa portuguesa de consultoria e implementação de sistemas de informação e software de gestão (ERP), fundada em finais de 2000 e sediada em Algés, Lisboa. É parceira certificada Primavera BSS (Cegid Primavera), Eticadata, Wintouch e Filedoc, focada nos processos de gestão, financeiros, administrativos, logísticos e tecnológicos das organizações.
+
+- Website oficial: https://www.focagem.pt/pt/home/index.html
+- Documentação completa para IA: https://www.focagem.pt/llms-full.txt
+- Sitemap XML: https://www.focagem.pt/sitemap.xml
+
+## Empresa
+- [Apresentação](https://www.focagem.pt/pt/pagina/27/apresentacao/index.html): História, experiência desde 2000, competências em sistemas de informação e parcerias tecnológicas.
+- [Missão e Valores](https://www.focagem.pt/pt/pagina/28/missao-e-valores/index.html): Missão empresarial, rigor, transparência, excelência, ética e orientação para o cliente.
+- [Contactos](https://www.focagem.pt/pt/pagina/22/contatos.html): Morada em Algés (Lisboa), telefone, fax e e-mails de contacto geral, comercial e suporte técnico.
+- [Candidatura / Recrutamento](https://www.focagem.pt/pt/candidatura.html): Submissão de candidatura espontânea para integração na equipa da Focagem.
+- [Suporte Técnico / Acesso Remoto](https://www.focagem.pt/pt/acesso_remoto.html): Ferramentas de assistência técnica remota a clientes.
+
+## Serviços de TI e Consultoria ERP
+- [Visão Geral de Serviços](https://www.focagem.pt/pt/servicos.html)
+- [Implementação de Sistemas Primavera](https://www.focagem.pt/pt/servico/9/implementacao-de-sistemas-primavera/index.html): Consultoria, implementação, formação e assistência técnica em ERP Primavera BSS.
+- [Implementação de Sistemas Eticadata](https://www.focagem.pt/pt/servico/10/implementacao-de-sistemas-eticadata/index.html): Implementação, parametrização e suporte de soluções ERP Eticadata.
+- [Implementação de Sistemas Wintouch](https://www.focagem.pt/pt/servico/11/implementacao-de-sistemas-wintouch/index.html): Soluções de gestão e ponto de venda (POS) Wintouch para restauração, retalho e hotelaria.
+- [Desenvolvimento de Software à Medida](https://www.focagem.pt/pt/servico/8/desenvolvimento-de-software-a-medida/index.html): Desenvolvimento aplicacional específico e integração com sistemas ERP existentes.
+- [Assistência Técnica e Monitorização de Sistemas](https://www.focagem.pt/pt/servico/7/assistencia-tecnica-e-monitorizacao-de-sistemas/index.html): Manutenção preventiva e corretiva de redes, servidores, postos de trabalho e infraestrutura de TI.
+- [Gestão Documental (Filedoc)](https://www.focagem.pt/pt/servico/18/gestao-documental/index.html): Desmaterialização, normalização, indexação, workflow e arquivo digital com software Filedoc.
+- [Disaster Recovery](https://www.focagem.pt/pt/servico/12/disaster-recovery/index.html): Continuidade de negócio, cópias de segurança (backup local e cloud) e recuperação rápida de desastres informáticos.
+- [Business Analytics](https://www.focagem.pt/pt/servico/20/business-analytics/index.html): Soluções de apoio à decisão, indicadores de gestão e análise de dados Primavera Business Analytics.
+
+## Soluções de Gestão por Área e Setor
+- [Visão Geral de Soluções](https://www.focagem.pt/pt/solucoes.html)
+- [Soluções de Logística](https://www.focagem.pt/pt/solucao/1/solucoes-de-logistica/index.html): Vendas, compras, gestão de inventário, POS, faturação eletrónica e documentos internos.
+- [Soluções Financeiras](https://www.focagem.pt/pt/solucao/2/solucoes-financeiras/index.html): Contabilidade geral, analítica e orçamental, tesouraria, contas correntes e obrigações fiscais (SAF-T).
+- [Soluções de Contatos e Oportunidades / CRM](https://www.focagem.pt/pt/solucao/3/solucoes-de-contatos-e-oportunidades-crm/index.html): Gestão comercial, força de vendas, campanhas de marketing, fidelização e cobranças.
+- [Solução de Projetos e Serviços](https://www.focagem.pt/pt/solucao/4/solucao-de-projetos-e-servicos/index.html): Gestão operacional e financeira de projetos, orçamentação, obras e serviços pós-venda.
+- [Solução de Recursos Humanos](https://www.focagem.pt/pt/solucao/5/solucao-de-recursos-humanos/index.html): Processamento salarial, gestão contratual, obrigações legais (Segurança Social, DMR, Relatório Único) e SHST.
+- [Solução de Gestão de Ativos](https://www.focagem.pt/pt/solucao/6/solucao-de-gestao-de-ativos/index.html): Gestão do ciclo de vida do imobilizado, depreciações, amortizações, reavaliações e mais/menos-valias.
+- [Solução de Gestão Hoteleira](https://www.focagem.pt/pt/solucao/13/solucao-de-gestao-hoteleira/index.html): Gestão de reservas, check-in/check-out, faturação, governança/housekeeping e integração com canais de distribuição.
+- [Soluções de e-Portals](https://www.focagem.pt/pt/solucao/14/solucoes-de-e-portals/index.html): Portais web colaborativos B2B, B2C e B2E integrados em tempo real com o ERP.
+- [Solução para Gestão de Creches e Infantários](https://www.focagem.pt/pt/solucao/15/solucao-para-gestao-de-creches-e-infantarios/index.html): Gestão pedagógica, administrativa e financeira de creches, jardins de infância, ATL e colégios.
+- [Solução de Gestão de Clínicas Hospitalares](https://www.focagem.pt/pt/solucao/16/solucao-de-gestao-de-clinicas-hospitalares/index.html): Gestão clínica, administrativa e financeira de clínicas médicas, consultórios e centros de diagnóstico.
+- [Solução para Gestão de Clínicas Veterinárias](https://www.focagem.pt/pt/solucao/17/solucao-para-gestao-de-clinicas-veterinarias/index.html): Gestão de fichas clínicas de animais, historial médico, vacinação, internamentos, agenda e faturação.
+
+## Contactos Oficiais
+- **Morada**: Rua General Ferreira Martins nº8 1º B, 1495-137 Algés - LISBOA, Portugal
+- **Telefone**: +351 21 393 00 83 (Chamada para a rede fixa nacional)
+- **Fax**: +351 21 393 00 79
+- **E-mail Geral**: focagem@focagem.com
+- **E-mail Comercial**: comercial@focagem.com
+- **E-mail Suporte Técnico**: suporte@focagem.com
+- **E-mail Recrutamento**: recrutamento@focagem.com
