@@ -1,0 +1,124 @@
+/* Fallback Mobile Stylesheet for /m/ */
+* {
+	box-sizing: border-box;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', 'Lato', Helvetica, Arial, sans-serif;
+	background: #ffffff;
+	color: #333333;
+	overflow-x: hidden;
+}
+a {
+	text-decoration: none;
+	color: #0c3483;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+.clear {
+	clear: both;
+	height: 70px !important;
+}
+.head {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 70px;
+	background: #ffffff;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 16px;
+	z-index: 1000;
+}
+.head .logo_icon img {
+	max-height: 44px;
+	width: auto;
+}
+.head .btn_menu,
+.head .newsletter_icon {
+	width: 40px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+}
+#menu {
+	display: none;
+	position: fixed;
+	top: 70px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #0c3483;
+	color: #ffffff;
+	z-index: 999;
+	overflow-y: auto;
+}
+#menu.open {
+	display: block;
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#menu li {
+	border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+#menu li a {
+	display: block;
+	padding: 14px 20px;
+	color: #ffffff;
+	font-weight: 600;
+}
+#menu li.menu_separator {
+	padding: 10px 20px;
+	font-size: 12px;
+	text-transform: uppercase;
+	background: rgba(0,0,0,0.2);
+	color: #FBD504;
+}
+.pagina, .noticias_home {
+	padding: 20px 16px;
+}
+.normal_text {
+	margin-bottom: 20px;
+	line-height: 1.6;
+}
+.normal_text h2, .noticias_home h3 {
+	color: #0c3483;
+	font-size: 24px;
+	margin-top: 0;
+}
+.slider_servicos ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.slider_servicos li {
+	text-align: center;
+	padding: 20px 10px;
+	border-bottom: 1px solid #eef0f5;
+}
+.btn_voltar, .btn_googlemaps button {
+	display: inline-block;
+	background: #0c3483;
+	color: #ffffff !important;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 4px;
+	font-weight: 700;
+}
+.gray_b {
+	background: #f2f3f8;
+	padding: 24px 16px;
+	text-align: center;
+	font-size: 13px;
+}

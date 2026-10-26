@@ -2,10 +2,12 @@
 $(document).ready(function () {
 
 	Menu_Selecionado();
+	initMobileMenu();
 	
 	$('.top').hover(function(){},function(){Menu_Selecionado()})
 	
 	$('.top ul li').hover(function () {
+		if (window.innerWidth <= 960) return;
 		var pos_obj = $(this).position();
 		var pos_obj2 = $(this).offset();
 		/*$('.sel_menu').show();
@@ -104,6 +106,95 @@ $(document).ready(function () {
 
 });
 
+function initMobileMenu() {
+	var $topContainer = $('.top .container');
+	if ($topContainer.length === 0 || $('#mobile-nav-drawer').length > 0) return;
+
+	var $toggleBtn = $('<button type="button" class="mobile-nav-toggle" aria-label="Abrir Menu" aria-expanded="false"><span></span><span></span><span></span></button>');
+	$topContainer.append($toggleBtn);
+
+	var $overlay = $('<div id="mobile-nav-overlay"></div>');
+	var $drawer = $('<nav id="mobile-nav-drawer" aria-label="Menu Principal Mobile"><ul class="mobile-nav-list"></ul></nav>');
+	var $list = $drawer.find('.mobile-nav-list');
+
+	$topContainer.find('ul > a').each(function () {
+		var $a = $(this);
+		var $li = $a.find('li');
+		var label = $.trim($li.text());
+		var href = $a.attr('href') || '#';
+		var idm = $li.attr('idm');
+		var isDropdown = $li.hasClass('dropdown');
+		var $subSource = idm ? $('#sm' + idm + ' ul li a') : $();
+
+		if (isDropdown && $subSource.length > 0) {
+			var $item = $('<li class="mobile-nav-item has-sub"><a href="#" class="mobile-nav-link mobile-sub-toggle"><span>' + label + '</span><span class="mobile-arrow"></span></a><ul class="mobile-sub-list"></ul></li>');
+			var $subList = $item.find('.mobile-sub-list');
+
+			if (idm === '3' || idm === '4') {
+				$subList.append('<li class="mobile-sub-all"><a href="' + href + '">Ver todos (' + label + ')</a></li>');
+			}
+
+			$subSource.each(function () {
+				var subLabel = $.trim($(this).text());
+				var subHref = ($(this).attr('href') || '#').replace('iindex.html', 'index.html');
+				if (subLabel) {
+					$subList.append('<li><a href="' + subHref + '">' + subLabel + '</a></li>');
+				}
+			});
+
+			$list.append($item);
+		} else {
+			$list.append('<li class="mobile-nav-item"><a href="' + href + '" class="mobile-nav-link">' + label + '</a></li>');
+		}
+	});
+
+	var searchHref = $topContainer.find('.pesquisa a').attr('href');
+	if (searchHref) {
+		$list.append('<li class="mobile-nav-item"><a href="' + searchHref + '" class="mobile-nav-link">Pesquisa</a></li>');
+	}
+
+	$('body').append($overlay).append($drawer);
+
+	function closeDrawer() {
+		$toggleBtn.removeClass('open').attr('aria-expanded', 'false');
+		$drawer.removeClass('open');
+		$overlay.removeClass('open');
+		$('body').removeClass('mobile-nav-open');
+	}
+
+	$toggleBtn.on('click', function (e) {
+		e.preventDefault();
+		e.stopPropagation();
+		var isOpen = $drawer.hasClass('open');
+		if (isOpen) {
+			closeDrawer();
+		} else {
+			$toggleBtn.addClass('open').attr('aria-expanded', 'true');
+			$drawer.addClass('open');
+			$overlay.addClass('open');
+			$('body').addClass('mobile-nav-open');
+		}
+	});
+
+	$overlay.on('click', function () {
+		closeDrawer();
+	});
+
+	$drawer.on('click', '.mobile-sub-toggle', function (e) {
+		e.preventDefault();
+		var $parent = $(this).closest('.has-sub');
+		var $sub = $parent.find('.mobile-sub-list');
+		$parent.toggleClass('open');
+		$sub.stop(true, true).slideToggle(200);
+	});
+
+	$(window).on('resize', function () {
+		if (window.innerWidth > 960) {
+			closeDrawer();
+		}
+	});
+}
+
 function startMap(id_mapa) {
 	
 	function initialize() {
@@ -133,6 +224,10 @@ function startMap(id_mapa) {
 
 function Menu_Selecionado()
 {
+	if (window.innerWidth <= 960) {
+		$('.sel_menu').hide();
+		return;
+	}
 	var menu = $('.sel_menu').attr("menu");
 	
 	$('.sel_menu').show();
